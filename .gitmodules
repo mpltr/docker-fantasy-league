@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:mpltr/fantasy-league.git
+[submodule "api"]
+	path = api
+	url = git@github.com:mpltr/fantasy-league-api.git
