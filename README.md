@@ -2,7 +2,7 @@
 # Install
 Create .env file in client using the .env.example as template
 
-## Stand up docker constainers and enter bash in api 
+## Stand up docker containers and enter bash in api 
 ```bash
     docker-compose up
     docker-compose exec api bash
