@@ -3,7 +3,7 @@ services:
   api:
     image: 'mpltr/php-apache-laravel:7.4_14.x'
     volumes:
-      - ./api:/var/www/html
+      - ./fantasy-league-api:/var/www/html
     ports:
       - '8080:80'
     environment:

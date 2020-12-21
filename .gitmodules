@@ -1,0 +1,3 @@
+[submodule "fantasy-league-api"]
+	path = fantasy-league-api
+	url = git@github.com:mpltr/fantasy-league-api.git
